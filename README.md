@@ -5,6 +5,6 @@ This is an old tool for spt files extraction fixed in python by me, this fix the
 when you run the application this will create some folders after that this ask you what option do you like "1" or "2"
 select your option and see the magic.
 
-spt_files: Here you can put the spt files from your game (you can put any amount of files) <br>
-scripts_repaired: Here are the scripts patched, you can translate without any problem this files just don't touch the ### \n\n
-patch: when you select the second option in the program ("2") in this folder will have the spt with the new text \n\n
+spt_files: Here you can put the spt files from your game (you can put any amount of files) <br><br>
+scripts_repaired: Here are the scripts patched, you can translate without any problem this files just don't touch the ### <br><br>
+patch: when you select the second option in the program ("2") in this folder will have the spt with the new text <br><br>
